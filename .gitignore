@@ -1,0 +1,3 @@
+# file and directory format to be exculuded
+.class
+node_modules/
