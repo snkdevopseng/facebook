@@ -4,13 +4,14 @@ iam in master branch yes
 llo guys git very imo
 
 iam in develpoment branch yes
-
-ima addding something
+development
+haruva hakki
+im addding something
 
 yappole
-yammole
-
+yammol
 hogalee 
  jai
- jai
-hi
+  yes resolved
+
+ 
